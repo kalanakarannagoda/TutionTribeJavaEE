@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/interceptor/LogInterceptor.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/models/ResponsePayload.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/models/UserPayload.java</file>
+            <file>file:/F:/TutionTribe-lib/build/generated-sources/ap-source-output/com/gray/tutiontribe/entity/UserRole_.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/entity/Lecture.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/entity/User.java</file>
+            <file>file:/F:/TutionTribe-lib/build/generated-sources/ap-source-output/com/gray/tutiontribe/entity/User_.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/controller/SampleRegisterRemote.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/exception/InterceptorInvokeException.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/exception/AuthenticationException.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/exception/DataDuplicationException.java</file>
+            <file>file:/F:/TutionTribe-lib/build/generated-sources/ap-source-output/com/gray/tutiontribe/entity/UserAttendance_.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/information/UserRoleManagerRemote.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/entity/Attendance.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/entity/Institute.java</file>
+            <file>file:/F:/TutionTribe-lib/build/generated-sources/ap-source-output/com/gray/tutiontribe/entity/Branch_.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/information/InstituteManagerRemote.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/information/LectureManagerRemote.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/entity/Branch.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/entity/UserAttendance.java</file>
+            <file>file:/F:/TutionTribe-lib/build/generated-sources/ap-source-output/com/gray/tutiontribe/entity/Institute_.java</file>
+            <file>file:/F:/TutionTribe-lib/build/generated-sources/ap-source-output/com/gray/tutiontribe/entity/Lecture_.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/attendance/UserAttendanceManagerRemote.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/interceptor/WelcomeEmailInterceptor.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/exception/DataNotFoundException.java</file>
+            <file>file:/F:/TutionTribe-lib/src/META-INF/persistence.xml</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/attendance/AttendanceManagerRemote.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/information/BranchManagerRemote.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/controller/LectureUpdateRemote.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/entity/UserRole.java</file>
+            <file>file:/F:/TutionTribe-lib/build/generated-sources/ap-source-output/com/gray/tutiontribe/entity/Attendance_.java</file>
+            <file>file:/F:/TutionTribe-lib/src/com/kalana/tutiontribe/information/UserManagerRemote.java</file>
+        </group>
+    </open-files>
+</project-private>
